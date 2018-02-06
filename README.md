@@ -1,10 +1,11 @@
 # Final_Frontend_Assigment
 
 Link to project here:
-http://christiantoledo.wieg17.se/Final_Frontend_Assigment/
-user: test 
-password: password
+<a href="http://christiantoledo.wieg17.se/Final_Frontend_Assigment/">Demo</a><br/>
+user: test <br/>
+password: password <br/>
 
-http://christiantoledo.wieg17.se/Final_Frontend_Assigment/admin.html
-user: admin 
-password: admin
+
+<a href="http://christiantoledo.wieg17.se/Final_Frontend_Assigment/admin.html">Admin Page</a><br/>
+user: admin <br/>
+password: admin <br/>
