@@ -1,0 +1,24 @@
+Issues to solve:
+
+- Make a nav bar that contain: 
+*Start (button that links to start)
+*4 product categories with drop down under-categories that take you to their respective product pages:
+-Products page for each product with info and pics (take all the categories from a JSON file)
+*Info
+*Contact
+*Shopping Cart:
+-Shopping Cart page that will show products selected, calculate price summary + frakt
+-User cannot complete purchase until they login 
+-When user logs in, the ''Complete purchase'' option will appear and when clicked it will take you to a "Thank you" page.
+
+
+- Responsive website (mobile and such)
+
+Admin Page:
+-Make an admin page on my domain with a permanent password
+-When an admin logs in an alternative navbar appears with the categories:
+*Start
+*Customers list (shows a list of all the customers)
+*Orders list
+*Emails list
+
