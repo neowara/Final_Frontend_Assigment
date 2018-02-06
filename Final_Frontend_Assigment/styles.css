@@ -1,0 +1,243 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    min-height: 400px;
+  
+}
+
+.container {
+    min-height: 600px;
+}
+
+
+.navbar {
+    padding: 20px 5px;
+    color: rgb(38, 66, 58);
+    background-color: #3c3d41;
+    letter-spacing: 2px;
+}
+
+.navbar a {
+    color: rgb(184, 19, 19);
+    font-size: 19px;
+}
+
+.underNav {
+    margin-bottom: 150px;
+}
+
+.jumbotron {
+    margin-bottom: 50px;
+    padding: 260px 0px 330px 0px;
+    background-image: url('pictures/realfakedoorsalt.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border:3px solid #021a40;
+
+}
+
+.card {
+    margin: 15px;
+}
+
+.card img {
+    width: 100%;
+}
+
+#hk3 {
+    color: rgb(184, 19, 19);
+}
+
+.allCart {
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.cart {
+    padding: 20px;
+}
+
+.cartList {
+    list-style-type: none;
+}
+
+
+#footerlogo {
+    width: 200px;
+   
+}
+
+#myFooter {
+    background-color: #3c3d41;
+    color: white;
+    padding-top: 30px;
+    
+    
+}
+
+#myFooter .row {
+    margin-bottom: 60px;
+}
+
+#myFooter .navbar-brand {
+    margin-top: 45px;
+    height: 65px;
+}
+
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#myFooter h3 {
+    font-size: 25px;
+    font-style: bold;
+    color: rgb(184, 19, 19);
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter h2 a{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(184, 19, 19);
+}
+
+#myFooter p {
+    color: rgb(184, 19, 19);
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#myFooter a:hover,
+#myFooter a:focus {
+    text-decoration: none;
+    color: rgb(129, 16, 16);
+}
+
+#myFooter .social-networks {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 16px;
+}
+
+#myFooter .social-networks a {
+    font-size: 32px;
+    color: #f9f9f9;
+    padding: 10px;
+    transition: 0.2s;
+}
+
+#myFooter .social-networks a:hover {
+    text-decoration: none;
+}
+
+#myFooter .facebook:hover {
+    color: #0077e2;
+}
+
+#myFooter .google:hover {
+    color: #ef1a1a;
+}
+
+#myFooter .twitter:hover {
+    color: #00aced;
+}
+
+#myFooter .btn {
+    color: white;
+    background-color: rgb(129, 16, 16);
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 25px;
+}
+
+.row {
+    margin: 0;
+    text-align: center;
+}
+
+.mycards {
+    padding: 50px;
+    margin-left: 100px;
+}
+
+.productscont {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+html{
+    height: 100%;
+}
+
+footer {
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    height: 100%;
+}
+
+.content{
+   flex: 1 0 auto;
+   -webkit-flex: 1 0 auto;
+   min-height: 200px;
+}
+
+#myFooter{
+   flex: 0 0 auto;
+   -webkit-flex: 0 0 auto;
+}
+
+
+@media (max-width:768px) {
+    .main {
+        margin-top:0;
+    }
+    .navbar-fixed-top {
+        position:static;
+    }
+
+
+    .jumbotron {
+        margin: 0px;
+        padding: 60px 0px 150px 0px;
+    
+    
+    }
+
+    .container {
+        min-height: 420px;
+    }
+
+    #footerlogo {
+        width: 200px;
+        margin-left: 0px;
+    }
+    
+    .nav {
+        text-align: center;
+
+    }
+
+    #myFooter {
+        text-align: center;
+    }
+
+    #login {
+        margin-top: 10px;
+    }
+
+    .navbar a { 
+        padding-left: 135px;
+    }
+} 

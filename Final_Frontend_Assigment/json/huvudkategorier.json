@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "categoryname": "Real Fake Doors"
+        
+    },{
+        "id": 2,
+        "categoryname": "Real Fake Windows"
+    },{
+        "id": 3,
+        "categoryname": "Real Fake Paintings"
+    },{
+        "id": 4,
+        "categoryname": "Real Fake Mirrors"
+    }
+]

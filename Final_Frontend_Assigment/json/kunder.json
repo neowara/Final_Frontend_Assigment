@@ -1,0 +1,13 @@
+[
+    {   
+        "id": 1,
+        "name": "Janne Kemi",
+        "email": "janne@hiveandfive.se",
+        "password": "12345"
+    },{
+        "id": 2,
+        "name": "Test Tester",
+        "email": "test@test.com",
+        "password": "test"
+    }
+]

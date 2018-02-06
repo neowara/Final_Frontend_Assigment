@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1.1,
+        "type": "Wooden Doors",
+        "huvudkategori": 1
+        
+    },{
+        "id": 1.2,
+        "type": "Iron Doors",
+        "huvudkategori": 1
+    },{
+        "id": 1.3,
+        "type": "Plastic Doors",
+        "huvudkategori": 1
+    },{
+        "id": 2.1,
+        "type": "Wooden Windows",
+        "huvudkategori": 2
+    },{
+        "id": 2.2,
+        "type": "Iron Windows",
+        "huvudkategori": 2
+    },{
+        "id": 2.3,
+        "type": "Plastic Windows",
+        "huvudkategori": 2
+    },{
+        "id": 3.1,
+        "type": "Big Paintings",
+        "huvudkategori": 3
+    },{
+        "id": 3.2,
+        "type": "Medium Paintings",
+        "huvudkategori": 3
+    },{
+        "id": 3.3,
+        "type": "Small Paintings",
+        "huvudkategori": 3
+    },{
+        "id": 4.1,
+        "type": "Big Mirrors",
+        "huvudkategori": 4
+    },{
+        "id": 4.2,
+        "type": "Medium Mirrors",
+        "huvudkategori": 4
+    },{
+        "id": 4.3,
+        "type": "Small Mirrors",
+        "huvudkategori": 4
+    }
+]
